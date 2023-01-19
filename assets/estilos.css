@@ -1,0 +1,31 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    font-family:sans-serif;
+}
+
+h1 {
+    color:navy;
+}
+
+
+img,
+video{
+    max-width: 100%;
+    height: auto;
+}
+
+img.youtube,.warning {
+    width: 600px;
+    height: 400px;
+}
+
+dl.listasDeDefinición {
+    background-color: blanchedalmond;
+}
+.terminos-condiciones {
+    color: blue;
+}
